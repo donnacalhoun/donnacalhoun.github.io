@@ -2,7 +2,7 @@
 
 This is the README for my Github Pages website, 
 
-     [http://donnacalhoun.github.io](http://donnacalhoun.github.com)
+* [http://donnacalhoun.github.io](http://donnacalhoun.github.com)
 
 This file was forked and detached from [Stuart Geiger](https://github.com/staeiou).  Below is the original README from that repository. 
 
