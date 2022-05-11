@@ -13,7 +13,7 @@ name                     : &name "Donna Calhoun"
 description              : &description "Associate Professor"
 url                      : https://donnacalhoun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "donnacalhoun/academicpages.github.io"
+repository               : "donnacalhoun/donnacalhoun.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,8 +85,8 @@ author:
   bio              : "Associate Professor, Dept. of Mathematics"
   location         : "Boise State University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "donnacalhoun"
+  github           : "donnaaboise"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 2550810/donna
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "donnaaparis"
   vine             :
   weibo            :
   xing             :
