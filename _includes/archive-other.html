@@ -1,0 +1,43 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+
+    {% if post.publish_type == 'other' %}  
+      <h3 class="archive__item-title" itemprop="headline">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      </h3>
+
+      <p>{{ post.citation }} </p>
+
+      {% if site.read_more == 'enabled' %}
+        <p class="archive__item-excerpt" itemprop="description">
+          <p>{{ remove: '<p>' | remove: '</p>' }}
+          <strong>
+            <a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a>
+          </strong></p>
+        </p>  
+      {% endif %}
+    {% endif %}
+    
+  </article>
+</div>

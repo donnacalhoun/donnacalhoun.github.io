@@ -1,10 +1,10 @@
-### Update (Donna Calhoun)
+### Update
 
-This is the README for my Github Pages website, 
+This is the README for my Github Pages website, which you can read here:
 
-* [http://donnacalhoun.github.io](http://donnacalhoun.github.com)
+* [http://donnacalhoun.github.io](http://donnacalhoun.github.io)
 
-This file was forked and detached from [Stuart Geiger](https://github.com/staeiou).  Below is the original README from that repository. 
+This repository was forked and detached from [Stuart Geiger](https://github.com/staeiou).  Below is the original README from that repository. 
 
 <hr style="border-width:4px; border-color:coral"></hr>
 
