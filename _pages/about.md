@@ -1,24 +1,41 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Donna Calhoun"
+excerpt: "Associate Professor, Department of Mathematics"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<head>
+<meta charset="UTF-8">
+<title>Donna Calhoun</title>
+</head>
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Research Interests
+------------------
+I work in the area of finite volume methods for hyperbolic, parabolic and elliptic PDEs.  My main focus for the past several years has been on the development of ForestClaw, a parallel library for adaptive mesh refinement.  ForestClaw has numerical algorithms for solving hyperbolic problems using the wave propagation algorithm (R. J. LeVeque, 2002) on logically Carstesian and mapped grids.  We are also developing higher order solvers.  Applications I have been involved include shallow geophysical flows (e. g. overland flooding, tsunamis), and atmospheric sensing.  I am also very interested in high performance computing, performance modeling, and GPU development.  See a list of my [talks](talks) and [publications](publications) for more details.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Brief Bio
+---------
+
+* 2016-present : **Associate Professor**, Dept. of Mathematics, Boise State University, Boise ID. 
+
+* 2011-2016 : **Assistant Professor**, Dept. of Mathematics, Boise State University, Boise, ID. 
+
+* 2005-2010 : **Research Engineer** Commissariat l` Ènergie Atomique, DEN/DM2S/SFME/LTMF
+Saclay, France. Division of Nuclear Energy.
+Research engineer in computational fluids and mechanics group responsible for modeling hydrogen combustion and multiphase flows.  My primary responsibilities include using an adaptive mesh refinement code (ChomboClaw, EBChombo, AMRClaw) to simulate combustion processes. 
+
+
+* 2004-2005 : **Acting Assistant Professor**, Dept. of Mathematics, University of Washington, Seattle, WA.  
+
+* 2002 - 2004 : **Post-doctoral researcher**, Dept. of Applied Mathematics, University of Washington, Seattle, WA. 
+
+* 1999 - 2002 : **Post-doctoral researcher**, Courant Institute of
+    Mathematical Sciences, New York University, NYC, NY. 
+
+* 1999 : **PhD**, University of Washington.  Advisor : Randall J. LeVeque. 
