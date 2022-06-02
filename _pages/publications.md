@@ -11,13 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-<h3>Journal articles, conference proceedings, pre-prints</h3>
+<h2>Journal articles, conference proceedings, pre-prints</h2>
 <hr style="border-width:2px; border-style:solid"/>
 {% for post in site.publications reversed %}
   {% include archive-journal.html %}
 {% endfor %}
 
-<h3>Technical reports, posters, webpages</h3>
+<h2>Technical reports, posters, webpages</h2>
 <hr style="border-width:2px; border-style:solid"/>
 {% for post in site.publications reversed %}
   {% include archive-other.html %}
