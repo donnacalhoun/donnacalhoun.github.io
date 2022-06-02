@@ -190,6 +190,9 @@ collections:
   funding:
     output: true
     permalink: /:collection/:path/
+  students:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -253,6 +256,14 @@ defaults:
       type: funding
     values:
       layout: funding
+      author_profile: true
+      share: false
+  # _students
+  - scope:
+      path: ""
+      type: students
+    values:
+      layout: students
       author_profile: true
       share: false
 
