@@ -53,24 +53,24 @@ layout: default
           <p><i>{{ page.venue }}</i>, {{ page.organization }}, {{page.location}} ({{page.talk_type}})
           {% if page.date_conference %}
             <br><i>{{ page.date_conference }} </i>
-          {% endif %}
+          {% endif %}      
           </p>
 
           {% if page.abstract %}
             <h3>Abstract</h3>  
-            <p>{{ page.abstract }}</p>   
+            <p>{{ page.abstract }}</p>    
           {% endif %}
 
-        {% if page.slides %}
-          <p><i>Slides : <a href="/files/talks/{{ page.slides }}">{{ page.slides }}</a></i></p>
+        {% if page.slides %}   
+          <p><i>Slides : <a href="http://www.forestclaw.org/gh_pages_files/talks/{{ page.slides }}">{{ page.slides }}</a></i></p>
         {% endif %}
 
         {% if page.poster %}
-          <p><i>Poster : <a href="/files/talks/{{ page.poster }}">{{ page.poster }}</a></i></p>
+          <p><i>Poster : <a href="http://www.forestclaw.org/gh_pages_files/talks/{{ page.poster }}">{{ page.poster }}</a></i></p>
         {% endif %}
 
         {% if page.video %}
-          <p><i>Watch : <a href="/files/talks/{{ page.video }}">Video</a></i></p>
+          <p><i>Watch : <a href="http://www.forestclaw.org/gh_pages_files/talks/{{ page.video }}">Video</a></i></p>
         {% endif %}
 
         {% if page.conference_url %}
