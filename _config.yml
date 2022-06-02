@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  funding:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -242,6 +245,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: false
+  # _grants
+  - scope:
+      path: ""
+      type: funding
+    values:
+      layout: funding
       author_profile: true
       share: false
 
