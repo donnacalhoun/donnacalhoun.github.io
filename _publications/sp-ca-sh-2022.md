@@ -7,6 +7,6 @@ abstract: 'Dam failures occur worldwide, often from factors including aging stru
 date: 01/01/2022
 venue: 'http://arxiv.org/abs/2206.00766'
 paperurl: 'http://arxiv.org/abs/2206.00766'
-citation: 'Hannah Spero, Donna Calhoun, Michael Shubert, "Simulating the 1976 Teton Dam Failure using GeoClaw and HEC-RAS and Comparing with Historical Observations", <i>Boise State University</i>, 2022.'
+citation: 'Hannah Spero, Donna Calhoun, Michael Schubert, "Simulating the 1976 Teton Dam Failure using GeoClaw and HEC-RAS and Comparing with Historical Observations", <i>Boise State University</i>, 2022.'
 download: sp-ca-sh-2022.pdf
 ---
