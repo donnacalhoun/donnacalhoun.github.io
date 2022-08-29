@@ -9,6 +9,6 @@ author_profile: true
 
 List of grants awarded. 
 
-{% for post in site.funding reversed %}
+{% for post in site.funding %}
   {% include archive-single-funding.html %}
 {% endfor %}
