@@ -1,7 +1,7 @@
 ---
 title: 'A parallel algorithmic framework for flexible time discretization on adaptive Cartesian meshes'
 collection: funding
-agency: NSF
+agency: "National Science Foundation (NSF)"
 funding_period : "9/2014-8/2018"
 amount: '$194K'
 type: 'NSF-DMS: #1419108 (single PI)'

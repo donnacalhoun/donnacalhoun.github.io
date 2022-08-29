@@ -1,7 +1,7 @@
 ---
 title: 'Data-enabled modeling of wildfire smoke transport'
 collection: funding
-agency: NSF
+agency: National Science Foundation (NSF)
 funding_period : "5/2021-4/2024"
 amount: '$549K'
 type: 'NSF-DMS: #2111585'
