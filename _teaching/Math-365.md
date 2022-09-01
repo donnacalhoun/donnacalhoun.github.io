@@ -7,7 +7,7 @@ venue: "Boise State University, Dept. of Mathematics"
 location: "Boise, Idaho"
 textbook: "Numerical Computing with Matlab"
 textbook_link: "http://www.mathworks.com/moler/chapters.html"
-semesters_taught: "Sp13, Fa13, Sp14, Fa14, Sp15, Fa15, Sp16, Fa16, Sp17, Fa17"
+semesters_taught: "Sp13, Fa13, Sp14, Fa14, Sp15, Fa15, Sp16, Fa16, Sp17, Fa17, Fa22"
 ---
 
 This course introduces students to scientific computing.  The emphasis on this course is on applications and using Matlab or Python to solving science and engineering problems.  Less emphasis is placed on numerical algorithms. 
