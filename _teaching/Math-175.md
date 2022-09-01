@@ -6,7 +6,7 @@ permalink: /teaching/Math-175
 venue: "Boise State University, Dept. of Mathematics"
 location: "Boise, Idaho"
 textbook: "Rogawski"
-semesters_taught: "Fa11, Sp12"
+semesters_taught: "Sp12"
 ---
 
 This course introduces students to integration, sequences and series. 
