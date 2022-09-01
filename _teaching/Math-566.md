@@ -10,18 +10,22 @@ location: "Boise, Idaho"
 semesters_taught: "Sp22"
 ---
 
+Numerical solution to linear systems.
+
 Topics
 ======
 
-* Review of matrix norms
-* Singular Value Decomposition
-* Projectors
-* Gram-Schmidt orthogonalization
-* Householder reflectors
-* QR Decomposition
-* Floating point arithmetic
-* Conditioning and stability of numerical stabilty. 
-* Finding Eigenvalues of symmetric matrices
+<ol>
+<li>Review of matrix norms</li>
+<li>Singular Value Decomposition</li>
+<li>Projectors</li>
+<li>Gram-Schmidt orthogonalization</li>
+<li>Householder reflectors</li>
+<li>QR Decomposition</li>
+<li>Floating point arithmetic</li>
+<li>Conditioning and stability of numerical stabilty. </li>
+<li>Finding Eigenvalues of symmetric matrices</li>
+</ol>
 
 
 
