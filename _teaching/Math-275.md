@@ -1,11 +1,11 @@
 ---
-title: "Calculus III"
+title: "Calculus III (Math 275)"
 collection: teaching
 type: "Lower Division"
 permalink: /teaching/Math-275
 venue: "Boise State University, Dept. of Mathematics"
 location: "Boise, Idaho"
-textbook: "Stewart"
+textbook: "Rogawski"
 semesters_taught: "Sp12"
 ---
 
@@ -15,11 +15,10 @@ Topics
 ======
 
 <ul>
-    <li>Parametric curves</li>
-    <li>Vector valued functions</li>
+    <li>Parametric equations</li>
+    <li>Calculus of vector-valued functions</li>
     <li>Partial differentiation</li>
-    <li>Double and triple integrals</li>
-    <li>Divergence, curl and gradient operators</li>
-    <li>Green's Theorem, Divergence Theorem</li>
-    <li>Applications</li>
+    <li>Multiple integration</li>
+    <li>Line and surface integrals</li>
+    <li>Fundamental Theorems of Vector Analysis</li>
 </ul>
