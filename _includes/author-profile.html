@@ -117,7 +117,16 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
+      {% if author.mathgen %}
+        <li><a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id={{author.mathgen}}"> 
+        <img src="https://www.genealogy.math.ndsu.nodak.edu/favicon.ico" alt="" itemprop="image" style="height:1em; width:auto;"> Math Genealogy</a></li>
+      {% endif %}
+      {% if author.arxiv %}
+        <li><a href="{{author.arxiv}}"><img src="https://static.arxiv.org/static/browse/0.2.6/images/icons/favicon.ico" alt="" itemprop="image" style="height:1em; width:auto;"> arXiv.org</a></li>
+      {% endif %}
+
+
     </ul>
   </div>
 </div>

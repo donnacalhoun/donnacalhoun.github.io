@@ -86,7 +86,7 @@ author:
   location         : "Boise, ID"
   employer         : "Boise State University"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=eIBWfVwAAAAJ"
   email            : "donnacalhoun[at]boisestate.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -115,6 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  mathgen          : 50913
+  arxiv            : http://arxiv.org/a/calhoun_d_1
 
 
 # Reading Files
