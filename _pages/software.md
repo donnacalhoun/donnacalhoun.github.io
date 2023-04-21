@@ -16,3 +16,5 @@ Projects using ForestClaw
     <li> 1976 Teton Dam failure</li>
     <li> Acoustic and gravity waves in the atmosphere using MAGICForest.</li>
 </ul>
+
+I also maintain a website of [AMR software](http://www.forestclaw.org/www_personal/research/amr_software/index.html) that uses the original Berger/Oliger/Colella adaptive mesh refinement software.    
