@@ -22,7 +22,9 @@ I work in the area of finite volume methods for hyperbolic, parabolic and ellipt
 Brief Bio
 ---------
 
-* 2016-present : **Associate Professor**, Dept. of Mathematics, Boise State University, Boise ID. 
+* 2023-present : **Professor**, Dept. of Mathematics, Boise State University, Boise ID. 
+
+* 2016-2023 : **Associate Professor**, Dept. of Mathematics, Boise State University, Boise ID. 
 
 * 2011-2016 : **Assistant Professor**, Dept. of Mathematics, Boise State University, Boise, ID. 
 

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Donna Calhoun"
 title_separator          : "-"
 name                     : &name "Donna Calhoun"
-description              : &description "Associate Professor"
+description              : &description "Professor"
 url                      : https://donnacalhoun.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "donnacalhoun/donnacalhoun.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Donna Calhoun"   
   avatar           : "donnacalhoun.jpeg"
-  bio              : "Associate Professor, Dept. of Mathematics"
+  bio              : "Professor, Dept. of Mathematics"
   location         : "Boise, ID"
   employer         : "Boise State University"
   pubmed           : 
