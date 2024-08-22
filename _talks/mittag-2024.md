@@ -4,7 +4,7 @@ collection: talks
 type: Invited
 talk_type: Invited
 permalink: /talks/mittag-2024.html
-slides: 'mittag-2024'
+slides: 'mittag-2024.pdf'
 video: 'https://www.mittag-leffler.se/activities/numerical-methods-for-pdes-and-their-applications-2/'
 date: 2024-06-06
 date_talk: Jun 06, 2024
