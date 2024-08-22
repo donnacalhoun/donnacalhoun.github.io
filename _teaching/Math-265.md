@@ -6,7 +6,7 @@ permalink: /teaching/Math-265
 venue: "Boise State University, Dept. of Mathematics"
 location: "Boise, Idaho"
 textbook: "Jupyter notebooks provided in class"
-semesters_taught: "Sp20, Fa22"
+semesters_taught: "Sp21, Fa22"
 ---
 
 This course introduces students to fundamental elements of programming for mathematical applications.  

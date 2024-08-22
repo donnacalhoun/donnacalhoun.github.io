@@ -7,7 +7,7 @@ textbook: "Finite difference Methods for Ordinary Differential Equations (R. J. 
 textbook_link: "http://epubs.siam.org.libproxy.boisestate.edu/doi/book/10.1137/1.9780898717839"
 venue: "Boise State University, Dept. of Mathematics"
 location: "Boise, Idaho"
-semesters_taught: "Sp14, Fa16, Fa17"
+semesters_taught: "Sp14, Fa16, Fa17, Fa23, Fa24"
 ---
 
 This course will introduces students to methods for solving partial differential equations (PDEs) using finite difference methods. 
