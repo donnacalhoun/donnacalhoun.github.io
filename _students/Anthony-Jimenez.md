@@ -4,6 +4,6 @@ collection: students
 type: bs
 program: "BS in Mathematics"
 permalink: /students/Anthony-Jimenez.html
-project: 'Senior 401 project'
-dates: 'Fall 2022 - present'
+project: 'Automatic Differentiation using Dual Numbers (Senior Project)'
+dates: 'Spring 2023'
 ---

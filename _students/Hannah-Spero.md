@@ -4,7 +4,7 @@ collection: students
 type: bs
 program: "BS in Geosciences"
 permalink: /students/Hannah-Spero.html
-project: 'Develop computational model of the 1976 Teton Dam Failure'
+thesis: '“Validating GeoClaw for Simulating Teton Dam Failure by Comparison with HEC-RAS and Historical Observations”'
 funding: 'NSF'
-dates: 'Spring 2021'
+dates: 'Spring 2018 - present'
 ---

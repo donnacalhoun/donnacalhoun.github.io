@@ -17,18 +17,18 @@ Students I have supervised while at BSU.
 
 <h2>PhD Students</h2>
 <hr style="border-width:2px; border-style:solid"/>
-{% for post in site.students reversed %}
+{% for post in site.students %}
   {% include archive-single-phd-students.html %}
 {% endfor %}
 
 <h2>Master's Students</h2>
 <hr style="border-width:2px; border-style:solid"/>
-{% for post in site.students reversed %}
+{% for post in site.students %}
   {% include archive-single-masters-students.html %}
 {% endfor %}
 
 <h2>Undergraduate Students</h2>
 <hr style="border-width:2px; border-style:solid"/>
-{% for post in site.students reversed %}
+{% for post in site.students  %}
   {% include archive-single-ugrad-students.html %}
 {% endfor %}

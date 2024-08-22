@@ -32,8 +32,11 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
     </h3>
         <p><i>{{ post.program }}</i> ({{ post.dates }})</p>
-
+      {% if post.thesis %}       
+        <p><strong>Thesis:</strong> {{ post.thesis }}</p>
+      {% else %}
         <p><strong>Project:</strong> {{ post.project }}</p>
+      {% endif%}
     {% endif %}
 
 

@@ -4,7 +4,7 @@ collection: students
 type: phd
 program: "PhD in Computing"
 permalink: /students/Brian-Kyanjo.html
-project: 'Work focused on developing ForestClaw for atmospheric applications'
+thesis: '“GEOFLOOD: COMPUTATIONAL MODEL FOR OVERLAND FLOODING”'
 funding: 'NASA'
-dates: 'Fall 2020 - present'
+dates: 'Summer 2024'
 ---

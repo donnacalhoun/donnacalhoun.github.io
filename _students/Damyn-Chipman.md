@@ -4,7 +4,7 @@ collection: students
 type: phd
 program: "PhD in Computing"
 permalink: /students/Damyn-Chipman.html
-project: 'Work focused on direct elliptic solver using the HPS approach'
+thesis: '“An Adaptive and Parallel Direct Solver for Elliptic Partial Differential Equations”'
 funding: 'NSF'
-dates: 'Fall 2019 - present'
+dates: 'Summer 2024'
 ---
